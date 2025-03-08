@@ -1,0 +1,1 @@
+C:\Users\antonio\Desktop\VideoJuegos\JuegoProyecto2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\Debug\6e354u37\obj\arm64-v8a
